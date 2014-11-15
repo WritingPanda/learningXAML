@@ -1,0 +1,9 @@
+# Just a Panda Learning some XAML
+
+I am learning XAML and C# for work, and I thought it would be a good exercise to build a table with row details seen once selected.
+
+I would love to get more mentorship on learning C# and XAML, but for now, I am doing everything on my own.
+
+### Sometimes, life is hard for a panda.
+
+![panda life](https://33.media.tumblr.com/9d0e8b4ff508594e0b93a68e558c4526/tumblr_n19s828NCu1s6hrv3o1_500.gif)
